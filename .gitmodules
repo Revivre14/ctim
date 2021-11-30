@@ -1,0 +1,4 @@
+[submodule "OCA/wms"]
+	path = OCA/wms
+	url = git@github.com:OCA/wms.git
+	branch = 14.0-ocabot-merge-pr-177-by-simahawk-bump-nobump
